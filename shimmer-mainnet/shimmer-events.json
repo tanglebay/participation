@@ -1,3 +1,8 @@
 {
-    "eventIds": []
+    "official": {
+        "eventIds": []
+    },
+    "thirdParty": {
+        "eventIds": []
+    }
 }
