@@ -1,6 +1,11 @@
 {
     "official": {
-        "eventIds": []
+        "eventIds": [
+            "0x8f757e3d09323ebf0629a8f2e4ab4dc8b9d2c628b97af00a82bd97a936335302",
+            "0x199a401f5c26330b521f412c4f657517a7d1d075c0334f8d3a7670c1510e1f53",
+            "0x66fd0a5be96d78918a55bcabc08a255d8ba63977b641c2ff1aef1cdd79ddfef4",
+            "0x1676eef80c31f2beaa561d349293c4386087c477eb3e4d818ae9fe119723f657"
+        ]
     },
     "thirdParty": {
         "eventIds": []
