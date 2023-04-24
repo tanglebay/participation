@@ -6,5 +6,8 @@
     },
     "thirdParty": {
         "eventIds": []
+    },
+    "tanglebay": {
+        "eventIds": []
     }
 }
