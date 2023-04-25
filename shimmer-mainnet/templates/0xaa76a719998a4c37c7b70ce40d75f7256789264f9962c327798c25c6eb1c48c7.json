@@ -1,0 +1,30 @@
+{
+    "name": "[Tangle Bay] Infrastructure - Future node addresses",
+    "milestoneIndexCommence": 3613430,
+    "milestoneIndexStart": 3630710,
+    "milestoneIndexEnd": 3665270,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Which of the following node address formats are to be used by Tangle Bay in the future?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "node.shimmer.tanglebay.com"
+                    },
+                    {
+                        "value": 2,
+                        "text": "shimmer.node.tanglebay.com"
+                    },
+                    {
+                        "value": 3,
+                        "text": "Keep current variant shimmer-node.tanglebay.com"
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "You can only choose one option."
+}
