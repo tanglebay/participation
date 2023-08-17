@@ -1,8 +1,6 @@
 {
     "official": {
-        "eventIds": [
-            "a0e2605db376b5236961e0b05c753700fc8d6b061bd4564289fcfda936bcd59b"
-        ]
+        "eventIds": []
     },
     "thirdParty": {
         "eventIds": []
