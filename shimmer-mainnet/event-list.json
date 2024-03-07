@@ -13,5 +13,12 @@
     },
     "tanglebay": {
         "eventIds": []
+    },
+    "blocked": {
+        "eventIds": [
+            "0x69194943b788eb67bfd3b1e258041af1cbb8f501489c5d826e6cd970cfaf01eb",
+            "0xf537ce0f5f18726057342f9c66ce69da242f827a7b712e466a5ba56acf7b6b55",
+            "0x32dd81b45c36c67f5d1d9b218d023aa3a658f17c485caeb8300e6f5b9136b91c"
+        ]
     }
 }
