@@ -8,18 +8,20 @@ This repository contains the configurations for participation events IOTA and Sh
 
 **[IGP - 0002] Tangle Community Treasury Term 2024 to 2025**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x0a2e8afc01146f6283233e7d69fbd1a7455078f239fd33a22c05bf2c529ed633.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x0a2e8afc01146f6283233e7d69fbd1a7455078f239fd33a22c05bf2c529ed633.json<br>
 ID: `0x0a2e8afc01146f6283233e7d69fbd1a7455078f239fd33a22c05bf2c529ed633`
+
 
 **[IGP - 0003] Tangle Community Grant Committee Reviewer selection**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x91ca895ef442d3266537fa5e73736bc774bea2571a85fbf4451d44c236311a5c.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x91ca895ef442d3266537fa5e73736bc774bea2571a85fbf4451d44c236311a5c.json<br>
 
 ID: `0x91ca895ef442d3266537fa5e73736bc774bea2571a85fbf4451d44c236311a5c`
 
+
 **[IGP - 0004] Tangle Community Grant Committee - Lead selection**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0xcd46807cf026c9eab7245bb9d11f51ae4c60fde2f1bed830520beb14adba412a.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0xcd46807cf026c9eab7245bb9d11f51ae4c60fde2f1bed830520beb14adba412a.json<br>
 
 ID: `0xcd46807cf026c9eab7245bb9d11f51ae4c60fde2f1bed830520beb14adba412a`
 
@@ -27,19 +29,21 @@ ID: `0xcd46807cf026c9eab7245bb9d11f51ae4c60fde2f1bed830520beb14adba412a`
 
 **[SGP - 0007] Tangle Community Treasury Term 2024 to 2025**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x69194943b788eb67bfd3b1e258041af1cbb8f501489c5d826e6cd970cfaf01eb.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/iota-mainnet/templates/0x69194943b788eb67bfd3b1e258041af1cbb8f501489c5d826e6cd970cfaf01eb.json<br>
 
 ID: `0x69194943b788eb67bfd3b1e258041af1cbb8f501489c5d826e6cd970cfaf01eb`
 
+
 **[SGP - 0008] Tangle Community Grant Committee Reviewer selection**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/shimmer-mainnet/templates/0xf537ce0f5f18726057342f9c66ce69da242f827a7b712e466a5ba56acf7b6b55.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/shimmer-mainnet/templates/0xf537ce0f5f18726057342f9c66ce69da242f827a7b712e466a5ba56acf7b6b55.json<br>
 
 ID: `0xf537ce0f5f18726057342f9c66ce69da242f827a7b712e466a5ba56acf7b6b55`
 
+
 **[SGP - 0009] Tangle Community Grant Committee - Lead selection**
 
-Link: https://raw.githubusercontent.com/tanglebay/participation/shimmer-mainnet/templates/0x32dd81b45c36c67f5d1d9b218d023aa3a658f17c485caeb8300e6f5b9136b91c.json
+Link: https://raw.githubusercontent.com/tanglebay/participation/shimmer-mainnet/templates/0x32dd81b45c36c67f5d1d9b218d023aa3a658f17c485caeb8300e6f5b9136b91c.json<br>
 
 ID: `0x32dd81b45c36c67f5d1d9b218d023aa3a658f17c485caeb8300e6f5b9136b91c`
 
